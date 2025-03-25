@@ -30,7 +30,7 @@ git init
 
 git checkout -b knjizara
 
-git remote add https://github.com/pavlovicc2302/projekatKnjizara.git
+git remote add origin https://github.com/pavlovicc2302/projekatKnjizara.git
 
 git fetch origin
 
